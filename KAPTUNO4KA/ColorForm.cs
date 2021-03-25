@@ -1,7 +1,7 @@
 ﻿//
 // 
 // CREATED BY 70K51K GANG (K15K4)
-//
+// zhopa
 // ДЕДЛАЙН СРЕДА
 
 using System;
